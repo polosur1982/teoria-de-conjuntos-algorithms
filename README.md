@@ -28,7 +28,7 @@ Para mantener el estándar de *Clean Architecture*, el proyecto se organiza así
 - [x] *Fase 0:* Configuración de entorno y Repositorio en GitHub.
 - [x] *Fase 1:* S. Lipschutz - Cap. 1: Conjuntos y Elementos.
 - [x] *Fase 2:* S. Lipschutz - Cap. 2: Subconjuntos y Operaciones.
-- [ ] *Fase 3:* P. Halmos - Naive Set Theory (Sintetización).
+- [x] *Fase 3:* P. Halmos - Naive Set Theory (Sintetización).
 - [ ] *Fase 4:* T. Jech - Set Theory (Axiomática avanzada).
 
 ---
